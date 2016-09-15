@@ -1,7 +1,10 @@
 ---
  - name: mach-1
    user: js5
+   type: windows
  - name: mach-2
    user: ab6
+   type: ubuntu
  - name: mach-3
    user: mw6
+   type: osx
