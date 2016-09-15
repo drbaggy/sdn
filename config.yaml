@@ -13,7 +13,8 @@
    size: 8G
    created: 2000
  - host: mach-3
-   user: lksdjaklsdajkldaskljdsklajdsakldklJ
+   user: mw6
+   # lksdjaklsdajkldaskljdsklajdsakldklJ
    color: blue
    type: osx
    size: 16G
