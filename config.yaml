@@ -2,12 +2,12 @@
 # I think that name is ambiguous - is it the name of the user or the machine - so change to host!
  - host: mach-1
    user: js5
-   type: windows
+   ty;qlwekl;wq
    size: 16G
  - host: mach-2
    user: ab6
-   type: ubuntu
-   size: 8G
+   tkwlqjeklqw
+   sizqwekj
  - host: mach-3
    user: mw6
    type: osx
