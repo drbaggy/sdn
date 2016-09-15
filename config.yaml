@@ -15,7 +15,7 @@
    type: osx
    size: 16G
    created: 2005
-   host: mach-5
+ - host: mach-5
    user: cs16
    type: osx
    size: 4G
