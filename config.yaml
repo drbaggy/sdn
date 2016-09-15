@@ -16,3 +16,7 @@
    user: cs16
    type: osx
    size: 4G
+ - host: mach-4
+   user: mw8
+   type: osx
+   size: 8G
