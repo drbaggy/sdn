@@ -4,11 +4,24 @@
    user: js5
    type: windows
    size: 16G
+   created: 2001
  - host: mach-2
    user: ab6
    type: ubuntu
    size: 8G
+   created: 2000
  - host: mach-3
    user: mw6
    type: osx
    size: 16G
+   created: 2005
+ - host: mach-5
+   user: cs16
+   type: osx
+   size: 4G
+   created: 2007
+ - host: mach-4
+   user: mw8
+   type: osx
+   size: 8G
+   created: 2008
