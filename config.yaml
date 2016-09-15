@@ -1,7 +1,10 @@
 ---
  - name: mach-1
    user: js5
+   size: 16G
  - name: mach-2
    user: ab6
+   size: 8G
  - name: mach-3
    user: mw6
+   size: 16G
